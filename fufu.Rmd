@@ -5,6 +5,10 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+<<<<<<< Updated upstream:fufu.Rmd
+=======
+mummu
+>>>>>>> Stashed changes:mumu.Rmd
 ```
 
 ## R Markdown
