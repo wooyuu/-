@@ -404,4 +404,13 @@ picture_11_14<-ggplot(data = df_11_14)+
 
 
 picture_11_14
+##########################################################
 
+#### 以下四張圖顯示2001年-2014年各縣市學生成為台大生的機率
+![(a)2001-2003](C:\Users\user\Desktopb\31b318a-c1a1-4bf1-9bca-c5e476edbaed.png)
+![(b)2004-2006](C:\Users\user\Desktopb\46da5545-fff2-4dce-9c4b-0fbdaa78f0d9.png)
+
+![(c)2007-2010](C:\Users\user\Desktopb\31b318a-c1a1-4bf1-9bca-c5e476edbaed.png)
+![(d)2011-2014](C:\Users\user\Desktopb\31b318a-c1a1-4bf1-9bca-c5e476edbaed.png)
+
+(a)(b)(c)(d)四圖顯示台灣本島的六都成為台大生機率皆為各分區最高。
